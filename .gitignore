@@ -5,3 +5,4 @@ Temp/
 Library/
 **_Data/
 *.csproj
+*.sln
