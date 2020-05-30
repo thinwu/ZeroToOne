@@ -2284,6 +2284,11 @@ PrefabInstance:
       propertyPath: m_Speed
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 3552808551859263210, guid: e00d4c0f900ecb8439c72b0388e8c813,
+        type: 3}
+      propertyPath: m_AngularSpeed
+      value: 200
+      objectReference: {fileID: 0}
     - target: {fileID: 3552808551859263211, guid: e00d4c0f900ecb8439c72b0388e8c813,
         type: 3}
       propertyPath: m_Constraints
