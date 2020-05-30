@@ -1,0 +1,7 @@
+Logs/
+obj/
+.vs/
+Temp/
+Library/
+**_Data/
+*.csproj
